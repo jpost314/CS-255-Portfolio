@@ -1,1 +1,11 @@
 # CS-255-Portfolio
+•	Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+DriverPass wanted to create a system to help student drivers pass their driving exams. They wanted their system to provide students with online course materials, practice tests, and a reservation management system that would allow them to make appointments for on-the-road driving lessons with an instructor. 
+•	What did you do particularly well?
+I did a good job of presenting the system to the clients in a non-technical way. Presenting technical ideas and solutions to people without a technical background can be a challenge, but I did a decent job effectively communicating the system’s features without using technical jargon. 
+•	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would like to revise the first slide of the client presentation. I would choose more specific functional and non-functional requirements for the system. I chose some requirements that were too ambiguous and difficult to test. 
+•	How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+Aside from keeping DriverPass’s requirements in mind, this whole system design was performed with the user in mind. Users have access to pretty much everything that they need access to for this system, and they have ways to reach out for support in cases where their access is barred. If a system has poor UI/UX, people are far less likely to use it. If a site is poorly constructed, has a litany of performance issues, or very unintuitive, users will find a different resource to use. 
+•	How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+A good approach to designing software begins with gathering user requirements, creating use cases, and creating a blueprint of the system’s features, functions, and interactions by using diagrams. I would continue to use all of these techniques while striving to keep the user’s experience in mind throughout the design process. 
